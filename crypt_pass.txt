@@ -1,0 +1,7 @@
+admin:password
+admin:admin
+world:hello
+username:password
+root:root
+root:GHpzDyyNFUBeU
+user:user
